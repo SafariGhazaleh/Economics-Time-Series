@@ -1,4 +1,4 @@
-# Economics Time Series Assignment 1
+# Economics Time Series
 
 ## Problem Statement
 
